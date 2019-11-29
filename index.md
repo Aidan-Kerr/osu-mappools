@@ -1,8 +1,6 @@
 ## The osu! Tournament Mappool Project
 
-You can use the [editor on GitHub](https://github.com/Aidan-Kerr/osu-mappools/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The purpose of this project is to give players, competitive or not, easy access to Tournament Mappools to enjoy and/or practice on. The project started with me wanting to have all of the OWC mappools available to play quickly since playing them always gave me a kick of nostalgia. Later I used these for general practice. My aim is to make these pools and others available to the community to improve or find that nostalgic feeling that makes you enjoy the game even more.
 
 ### Markdown
 
