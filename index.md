@@ -10,8 +10,9 @@ These Collections are made for [piotrekol's Collection Manager](https://github.c
 3. Open the Collection Manager
 4. Click File > Open > osu! Collection (to retain your old collections)
 5. Drag the Collection you downloaded into the Collections window on the left
-6. Click on File > Save > osu! Collection
-7. And you're done!
+6. If you're missing maps (shows up in the top-right): Online > Download all missing maps
+7. Click on File > Save > osu! Collection
+8. And you're done!
 
 
 ### Currently available Tournament Mappools
