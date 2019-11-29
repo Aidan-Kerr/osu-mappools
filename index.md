@@ -4,4 +4,11 @@ The purpose of this project is to give players, competitive or not, easy access 
 
 ### How to use the collections you download
 
-These collections are made for [piotrekol's collection manager](https://github.com/piotrekol/CollectionManager)
+These collections are made for [piotrekol's collection manager](https://github.com/piotrekol/CollectionManager). To install them to your osu! simply:
+1. install the collection manager
+2. download one of the collections (.osdb files)
+3. open the collection manager
+4. click load osu! collection (to retain your old collections)
+5. drag the collection you downloaded into the collections window on the left
+6. click on save > to osu!
+7. and you're done!
