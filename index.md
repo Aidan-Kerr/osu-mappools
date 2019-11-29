@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The osu! Tournament Mappool Project
 
 You can use the [editor on GitHub](https://github.com/Aidan-Kerr/osu-mappools/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
