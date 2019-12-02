@@ -35,5 +35,5 @@ My "Passion Project", lol. Click the headers for more Collections (not just AIO 
 
 
 
-
-## [Return to Index](https://aidan-kerr.github.io/osu-mappools) </pre>
+</pre>
+## [Return to Index](https://aidan-kerr.github.io/osu-mappools) 
