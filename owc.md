@@ -30,5 +30,6 @@ My "Passion Project", lol. Click the headers for more Collections (not just AIO 
   
 ### [OWC 2019](https://aidan-kerr.github.io/osu-mappools/owc2019)
   * AIO Collection - WIP, Tournament hasn't finished yet
-</li> 
+
+  
 ## [Return to Index](https://aidan-kerr.github.io/osu-mappools) 
